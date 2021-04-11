@@ -1,0 +1,13 @@
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\bin\Debug\netcoreapp3.1\PrimeServices.exe
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\bin\Debug\netcoreapp3.1\PrimeServices.deps.json
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\bin\Debug\netcoreapp3.1\PrimeServices.runtimeconfig.json
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\bin\Debug\netcoreapp3.1\PrimeServices.runtimeconfig.dev.json
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\bin\Debug\netcoreapp3.1\PrimeServices.dll
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\bin\Debug\netcoreapp3.1\PrimeServices.pdb
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\obj\Debug\netcoreapp3.1\PrimeServices.csprojAssemblyReference.cache
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\obj\Debug\netcoreapp3.1\PrimeServices.AssemblyInfoInputs.cache
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\obj\Debug\netcoreapp3.1\PrimeServices.AssemblyInfo.cs
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\obj\Debug\netcoreapp3.1\PrimeServices.csproj.CoreCompileInputs.cache
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\obj\Debug\netcoreapp3.1\PrimeServices.dll
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\obj\Debug\netcoreapp3.1\PrimeServices.pdb
+C:\Users\mturner7\dev\Week4Labs\PrimeNumbers.Test\PrimeService\obj\Debug\netcoreapp3.1\PrimeServices.genruntimeconfig.cache
