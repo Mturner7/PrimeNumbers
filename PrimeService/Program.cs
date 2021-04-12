@@ -50,10 +50,21 @@ namespace PrimeServices
             {
                 Run();
                 running = ContinuePrompt();
-                Console.WriteLine();
+                Console.Clear();
             }
 
-            Console.WriteLine("\nSayonara!");
+            Console.WriteLine(@"
+
+               _____                                         _ 
+              / ____|                                       | |
+             | (___   __ _ _   _  ___  _ __   __ _ _ __ __ _| |
+              \___ \ / _` | | | |/ _ \| '_ \ / _` | '__/ _` | |
+              ____) | (_| | |_| | (_) | | | | (_| | | | (_| |_|
+             |_____/ \__,_|\__, |\___/|_| |_|\__,_|_|  \__,_(_)
+                            __/ |                              
+                           |___/                               
+            ");
+                                                                   
         }
     }
 }

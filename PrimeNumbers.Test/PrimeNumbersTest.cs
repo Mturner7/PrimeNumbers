@@ -23,9 +23,8 @@ namespace PrimeNumbersTest
         [Theory]
         [InlineData(-1)]
         [InlineData(0)]
-        [InlineData(-100)]
 
-        public void GetPrime_WillReturnNegative1(int nthPrime)
+        public void GetPrime_WillReturnNegative1ForNegativeInput(int nthPrime)
         {
             int result = PrimeService.GetPrime(nthPrime);
 
