@@ -7,7 +7,6 @@ namespace PrimeNumbersTest
     public class PrimeNumbersTest
     {
         [Theory]
-        [InlineData(0, -1)]
         [InlineData(1,2)]
         [InlineData(100, 541)]
         [InlineData(574, 4177)]
@@ -18,17 +17,6 @@ namespace PrimeNumbersTest
             int result = PrimeService.GetPrime(nthPrime);
 
             Assert.Equal(expectation, result);
-        }
-
-        [Theory]
-        [InlineData(-1)]
-        [InlineData(0)]
-
-        public void GetPrime_WillReturnNegative1ForNegativeInput(int nthPrime)
-        {
-            int result = PrimeService.GetPrime(nthPrime);
-
-            Assert.Equal(-1, result);
         }
     }
 }
